@@ -1,2 +1,3 @@
 # PostgreSQL_Go
-Learning GORM for use with postgres
+Learning GORM in Golang for use with PostgreSQL
+
